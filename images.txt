@@ -4,6 +4,5 @@ kasmweb/nginx:1.25.3
 cooderl/wewe-rss-sqlite:latest
 alisaqaq/mcsmanager-web
 nginx
-emby
-plex
+benjaminmj/rmbyext
 --platform=linux/amd64 redis:7.0.15-alpine3.20
