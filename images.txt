@@ -4,5 +4,6 @@ kasmweb/nginx:1.25.3
 cooderl/wewe-rss-sqlite:latest
 alisaqaq/mcsmanager-web
 plexinc/pms-docker
-emby/embyserver:beta
+emby/embyserver:latest
+xylplm/media-saber:latest-beta
 --platform=linux/amd64 redis:7.0.15-alpine3.20
