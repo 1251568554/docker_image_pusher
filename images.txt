@@ -6,4 +6,5 @@ alisaqaq/mcsmanager-web
 plexinc/pms-docker
 emby/embyserver:latest
 xylplm/media-saber:latest-beta
+gethomepage/homepage:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
