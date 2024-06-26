@@ -9,4 +9,5 @@ xylplm/media-saber:latest-beta
 linuxserver/qbittorrent:latest
 gdy666/lucky:latest
 cloudnas/clouddrive2:latest
+hslr/sun-panel:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
