@@ -11,4 +11,5 @@ gdy666/lucky:latest
 cloudnas/clouddrive2:latest
 hslr/sun-panel
 xhofe/alist
+chisbread/transmission
 --platform=linux/amd64 redis:7.0.15-alpine3.20
